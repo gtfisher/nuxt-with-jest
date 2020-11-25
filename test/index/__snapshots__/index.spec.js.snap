@@ -10,7 +10,7 @@ exports[`index renders properly 1`] = `
       </a> <a href=\\"https://github.com/nuxt/nuxt.js\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"button--grey\\">
         GitHub
       </a>
-      <nuxtlink to=\\"/about\\">About page</nuxtlink>
+      <nuxtlink-stub to=\\"/about\\">About page</nuxtlink-stub>
     </div>
   </div>
 </div>"
