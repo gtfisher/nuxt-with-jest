@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`index renders properly 1`] = `
+"<div class=\\"container\\">
+  <div>
+    <logo-stub></logo-stub>
+    <h1 class=\\"title\\">nuxt-with-jest</h1>
+    <div class=\\"links\\"><a href=\\"https://nuxtjs.org/\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"button--green\\">
+        Documentation
+      </a> <a href=\\"https://github.com/nuxt/nuxt.js\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"button--grey\\">
+        GitHub
+      </a></div>
+  </div>
+</div>"
+`;

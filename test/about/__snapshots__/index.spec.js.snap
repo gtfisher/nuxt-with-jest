@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`index renders properly 1`] = `
+"<div class=\\"container\\">
+  <div>
+    <logo-stub></logo-stub>
+    <h1>About</h1>
+    <btn-stub label=\\"click me!\\"></btn-stub>
+    <nuxtlink-stub to=\\"/\\">Home page</nuxtlink-stub>
+  </div>
+</div>"
+`;
